@@ -27,5 +27,6 @@ int main(){
         }
     }
     cout<< dp[N]%MOD << "\n";
+    cout<< "Vũ Đình Đồng dz vl"  <<"\n";
     return 0;
 }
